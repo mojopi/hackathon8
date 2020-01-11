@@ -1,0 +1,110 @@
+  body {
+      margin: 0;
+      background-image:url("./imgs/lined-paper.png");
+      background-size:cover;
+      background-repeat:repeat;
+  }
+
+
+
+  .menu-links {
+      position: absolute;
+      width: 600px;
+      height: 600px;
+      border-radius: 50%;
+      font-family: 'Bungee Inline', cursive;
+      font-size: 2vw;
+      text-align: center;
+      display: inline-block;
+      color: black;
+      background-size:cover;
+      background-position: center;
+
+  }
+
+  #one {
+      background-image: url(./imgs/take-apart.gif);
+      top: 20%;
+      left: 10%;
+  }
+
+  #two {
+      background-image: url(./imgs/portrait.png);
+      top: 100%;
+      left: 40%;
+  }
+
+
+  #three {
+      background-image: url(./imgs/portrait.png);
+      top: 200%;
+      left: 20%;
+  }
+
+  #four {
+      background-image: url(./imgs/exhibition.jpg);
+      top: 300%;
+      left: 40%;
+  }
+
+
+
+  a {
+      text-decoration: none;
+      color: white;
+  }
+
+  a:hover {
+      color: #fe4300;
+
+
+  }
+
+  #home-button {
+      font-size: 30px;
+      width: 5%;
+      position: relative;
+      top: 400%
+      right: 5%;
+  }
+
+  #takeApart-photo {
+
+      background-image: url(gif.gif);
+      top: -10px;
+  }
+
+  #takeApart-list {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      width: 100%;
+      top: -10px;
+      height: 150px;
+      padding-left: 100px;
+      background-color: #228B22;
+      position: relative;
+  }
+
+  a {
+
+      font-family: 'Bungee Inline', cursive;
+
+  }
+
+  h1 {
+      font-family: 'Bungee Inline', cursive;
+
+  }
+
+  .photo {
+      width: 100%;
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: relative;
+      top: 0px;
+      height: 800px;
+  }
+
+  #portrait {
+      background
+  }
