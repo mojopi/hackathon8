@@ -84,3 +84,8 @@
   #portrait {
       background
   }
+
+  .journal-sections{
+    border-bottom:dotted 0.5px black;
+
+  }
